@@ -1,7 +1,11 @@
-[
-  {
-    "name": "humanizer",
-    "url": "https://github.com/blader/humanizer.git",
-    "autoInstall": true
-  }
-]
+{
+  "globalIntervalDays": 7,
+  "skills": [
+    {
+      "name": "humanizer",
+      "url": "https://github.com/blader/humanizer.git",
+      "autoInstall": true,
+      "intervalDays": null
+    }
+  ]
+}
